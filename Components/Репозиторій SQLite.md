@@ -4,7 +4,7 @@ created: 2026-11-06
 tags: [component]
 path: storage/repository.py
 layer: storage
-status: planned
+status: implemented
 implements: ["ADR-001 Використання SQLite", "ADR-009 Дати як ISO-текст і пошук без регістру в SQLite"]
 ---
 
