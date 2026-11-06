@@ -5,6 +5,7 @@ tags: [component]
 path: api/
 layer: api
 status: planned
+implements: ["ADR-002 Три шари архітектури"]
 ---
 
 # HTTP API
