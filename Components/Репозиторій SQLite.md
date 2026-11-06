@@ -5,7 +5,7 @@ tags: [component]
 path: storage/repository.py
 layer: storage
 status: planned
-implements: ["ADR-001 Використання SQLite"]
+implements: ["ADR-001 Використання SQLite", "ADR-009 Дати як ISO-текст і пошук без регістру в SQLite"]
 ---
 
 # Репозиторій SQLite
